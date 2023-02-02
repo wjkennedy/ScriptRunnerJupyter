@@ -1,5 +1,7 @@
 # ScriptRunner Xerox
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wjkennedy/ScriptRunnerJupyter/main?labpath=ScriptRunnerXerox.ipynb)
+
 ## Introduction
 This is a Jupyter Notebook that generates Groovy scripts based on a provided example and a projects dataframe. The projects dataframe is provided by an uploaded CSV file, and the Groovy script example is provided by an uploaded file. The Groovy scripts are generated for selected projects from the dataframe and written to a directory named generated_YYmmdd (with YYmmdd being the current date).
 
